@@ -1,5 +1,5 @@
 **Personal Portfolio**
-https://prithivi-rajan.github.io/prithivi-portfolio/#portfolio
+https://prithivi-rajan.github.io/prithivi-portfolio
 
 **Languages Used** :-
  - HTML
